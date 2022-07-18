@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Zsj950708/Zsj950708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [Shuangjie Zhang!](https://shuangjiezhang.netlify.app)
 
-Here are some ideas to get you started:
+I am pursuing a Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I’m currently working on** 
+- 1. Bayesian high-dimensional modeling
+- 2. Multivariate count table
+- 3. Application to microbiome study and ecological study. 
+
+**How to reach me**
+- Email: szhan209 [AT] ucsc.edu
+
+**News & Travel**:
+
+- **August 2022**: I am going to attend JSM 2022. Although not presenting, hope to meet 
