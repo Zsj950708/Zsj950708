@@ -13,5 +13,5 @@ I am pursuing a Ph.D. in Statistics surpervised by [Juhee Lee](https://engineeri
 
 **News & Travel**:
 
-- **Sep 2022**: O'Bayes at UCSC
-- **August 2022**: I am going to attend JSM 2022. Although not presenting, hope to meet you there!
+- **Sep 2022**: Poster Presentation at O'Bayes, Santa Cruz 
+- **August 2022**: JSM 2022, Washington DC
