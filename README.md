@@ -5,8 +5,8 @@ I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https:/
 
 **I’m currently working on** 
 - 1. Bayesian high-dimensional modeling
-- 2. Multivariate count table
-- 3. Application to microbiome study and ecological study. 
+- 2. Multivariate count table with application to microbiome study and ecological study. 
+- 3. Bayesian density regression with discontinuity
 
 **How to reach me**
 - Email: szhan209 [AT] ucsc.edu
