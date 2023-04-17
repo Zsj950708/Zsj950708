@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Shuangjie Zhang!](https://shuangjiezhang.netlify.app)
 
-I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://engineering.ucsc.edu/people/juheelee) at [University of California Santa Cruz](https://www.ucsc.edu/).
+I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee]([https://engineering.ucsc.edu/people/juheelee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0)) at [University of California Santa Cruz](https://www.ucsc.edu/).
 
 **I’m currently working on** 
 - 1. Bayesian high-dimensional modeling
