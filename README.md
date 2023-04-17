@@ -13,4 +13,4 @@ I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https:/
 
 **News & Travel**:
 
-- **August 2023**: JSM 2022, Washington D.C. Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data. Sunday, Aug 6: 2:00 PM - 3:50 PM
+- **August 2023**: Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data. Sunday, Aug 6: 2:00 PM - 3:50 PM, JSM 2023, Toronto Canada. 
