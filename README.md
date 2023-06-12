@@ -1,7 +1,7 @@
 
-### Hi there, I'm [Shuangjie Zhang!](https://zsj950708.github.io/). 
+### Hi there, I'm [Shuangjie Zhang!](https://shuang-jie.github.io/). 
 
-Please visit my personal website [Shuangjie Zhang!](https://zsj950708.github.io/) for latest inormation.
+Please visit my personal website [Shuangjie Zhang!](https://shuang-jie.github.io/) for latest inormation.
 
 I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at [University of California Santa Cruz](https://www.ucsc.edu/).
 
