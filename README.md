@@ -3,7 +3,7 @@
 
 Please visit my personal website [Shuangjie Zhang!](https://shuang-jie.github.io/) for latest inormation.
 
-I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/)) advised by [Yang Ni](https://nystat.github.io/yni/). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0).
+I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) advised by [Yang Ni](https://nystat.github.io/yni/). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0).
 
 **I’m currently working on** 
 - 1. Bayesian high-dimensional modeling
